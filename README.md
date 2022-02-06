@@ -15,7 +15,7 @@
 
 <div style="display: inline_block">
     
-  ## 💻 Tecnologias
+  ## 💻 Tecnologias <img align="right" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif" width="250" height="250"/>
   
   <!--<img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
   <!--<img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
@@ -26,19 +26,20 @@
   <br>
     
   👨🎓 Cursando - Técnico em Desenvolvedor web (Senac Penha)
-  
+                                                                                        
   📚 Tenho estudado HTML e CSS desenvolver web sites, landing page e outras aplicações;
   
   ☕ Amo tomar meu café na padaria assistido no noticiaria.
   
   💼 Breve terar novos trabalhos. (Mas não se preocupe deixarei aberto publicamente)
+    
 
 ##
  
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0drigo-Pedroso&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0drigo-Pedroso&layout=compact&langs_count=7&theme=react"/>  
 </div>
     
 ##
