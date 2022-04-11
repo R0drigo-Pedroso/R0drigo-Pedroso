@@ -13,7 +13,7 @@
   
   ##
 
-<div style="display: inline_block">
+<div style="display: flex">
     
   ## 💻 Tecnologias 
   
