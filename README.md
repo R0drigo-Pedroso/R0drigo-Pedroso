@@ -31,7 +31,7 @@
                                                                                         
   📚 Tenho estudado HTML e CSS desenvolver web sites, landing page e outras aplicações;
   
-  ☕ Amo tomar meu café na padaria assistido no noticiaria.
+  ☕ Amo tomar meu café na padaria assistindo noticiario.
   
   💼 Breve terar novos trabalhos. (Mas não se preocupe deixarei aberto publicamente)
     
