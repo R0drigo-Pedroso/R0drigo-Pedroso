@@ -29,7 +29,7 @@
     
   👨🎓 Cursando - Técnico em Desenvolvedor web (Senac Penha)
                                                                                         
-  📚 Tenho estudado HTML e CSS desenvolver web sites, landing page e outras aplicações;
+  📚 Estudando HTML, CSS, JS, MySQL e WordPress, landing page e outras aplicações;
   
   ☕ Amo tomar meu café na padaria assistindo noticiario.
   
