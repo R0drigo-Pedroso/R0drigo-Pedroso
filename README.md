@@ -25,10 +25,9 @@
   <img align="center" alt="RodrigoCSS" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="RodrigoCSS" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="RodrigoCSS" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif" width="250" height="200"/>
-    
-</div>
-  <br>
+ </div>
+ <img align="right" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif" width="250" height="200"/>
+    <br>
     
   👨🎓 Cursando - Técnico em Desenvolvedor web (Senac Penha)
                                                                                         
