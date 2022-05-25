@@ -36,7 +36,7 @@
   
   💼 Breve terar novos trabalhos. (Mas não se preocupe deixarei aberto publicamente)
  
-  <img align="right" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif" width="250" height="200"/>
+  <img align="center" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif" width="250" height="200"/>
 
 ##
  
