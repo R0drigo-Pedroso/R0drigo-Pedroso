@@ -9,13 +9,17 @@
 </div>
   
   # Olá, tudo bem?
-  #### Tenho 30 anos, moro em São Paulo/SP e sou amo programação e desenvolver aplicações web! Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆
+  ### Tenho 30 anos, moro em São Paulo/SP e sou amo programação e desenvolver aplicações web! Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆
 
   ##
-
+<div align="center">
 <div style="display:flex>
-    
-  ## 💻 Tecnologias 
+
+<br>
+<br>
+
+## Tecnologias💻 
+<br>
   
   <!--<img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
   <!--<img align="center" alt="Rodrigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
