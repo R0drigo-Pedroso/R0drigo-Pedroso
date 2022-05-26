@@ -1,5 +1,5 @@
 # Rodrigo Pedroso
-<div> 
+<div align="center"> 
     <a href="https://github.com/R0drigo-Pedroso">
     <a href="https://www.instagram.com/rodrigo.pedros0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -10,10 +10,10 @@
   
   # Olá, tudo bem?
   #### Tenho 30 anos, moro em São Paulo/SP e sou amo programação e desenvolver aplicações web! Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆
-  
+
   ##
 
-<div style="display: flex">
+<div style="display:flex>
     
   ## 💻 Tecnologias 
   
@@ -28,6 +28,7 @@
  </div>
  <br>
     
+<div align="center" >
   👨🎓 Cursando - Técnico em Desenvolvedor web (Senac Penha)
                                                                                         
   📚 Estudando HTML, CSS, JS, MySQL e WordPress, landing page e outras aplicações;
@@ -35,10 +36,10 @@
   ☕ Amo tomar meu café na padaria assistindo noticiario.
   
   💼 Breve terar novos trabalhos. (Mas não se preocupe deixarei aberto publicamente)
- 
-  
-  <img align="center" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif"/>
-
+ </div>
+<div align="center">
+     <img align="center" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif"/>
+<div>
 ##
  
 <div align="center">
@@ -46,5 +47,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0drigo-Pedroso&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-    
-##
