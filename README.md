@@ -11,7 +11,6 @@
   # Olá, tudo bem?
   ### Tenho 30 anos, moro em São Paulo/SP e sou amo programação e desenvolver aplicações web! Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆
 
-  ##
 <div align="center">
 <div style="display:flex>
 
@@ -42,9 +41,6 @@
   
   💼 Breve terar novos trabalhos. (Mas não se preocupe deixarei aberto publicamente)
  </div>
-<div align="center">
-     <img align="center" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif"/>
-<div>
 ##
  
 <div align="center">
@@ -52,3 +48,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0drigo-Pedroso&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+<div align="center">
+     <img align="center" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif"/>
+<div>
