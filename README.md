@@ -1,6 +1,6 @@
-<div style="color:blue h1">
-Rodrigo Pedroso
-</div>
+
+# Rodrigo Pedroso
+
 <div align="center"> 
     <a href="https://github.com/R0drigo-Pedroso">
     <a href="https://www.instagram.com/rodrigo.pedros0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
