@@ -1,5 +1,5 @@
 <h1 align="center">
-Rodrigo Pedroso
+  *Rodrigo Pedroso*
 </h1>
 
 <div align="center"> 
