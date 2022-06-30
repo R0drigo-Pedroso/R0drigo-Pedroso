@@ -1,4 +1,4 @@
-<h1 style="color:blue" align="center">
+<h1 align="center" style="color:blue">
   Rodrigo Pedroso
 </h1>
 
