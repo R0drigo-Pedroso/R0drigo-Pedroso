@@ -1,5 +1,5 @@
-<div style="color:blue">
-# Rodrigo Pedroso
+<div style="color:blue h1">
+Rodrigo Pedroso
 </div>
 <div align="center"> 
     <a href="https://github.com/R0drigo-Pedroso">
