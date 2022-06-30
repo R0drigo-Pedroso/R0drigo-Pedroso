@@ -11,8 +11,7 @@
   # Olá, tudo bem?
   ### Tenho 30 anos, moro em São Paulo/SP e sou amo programação e desenvolver aplicações web! Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆
 
-<div align="center">
-<div style="display:flex>
+<div align="center" style="display:flex">
 
 <br>
 <br>
