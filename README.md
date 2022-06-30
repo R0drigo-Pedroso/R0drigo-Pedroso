@@ -1,5 +1,6 @@
-
-# Rodrigo Pedroso
+<h1 align="center">
+Rodrigo Pedroso
+</h1>
 
 <div align="center"> 
     <a href="https://github.com/R0drigo-Pedroso">
