@@ -44,7 +44,7 @@
 
 <!-- Imagem GIF Irmão wonner -->
 <div align="center">
-     <img align="center" style:"border-radius:10px;" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif"/>
+     <img align="center" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif"/>
 <div>
 
 <div align="center">
