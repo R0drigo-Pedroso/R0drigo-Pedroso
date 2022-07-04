@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue">
+<h1 align="center">
   Rodrigo Pedroso
 </h1>
 
@@ -11,8 +11,11 @@
         <a href="https://api.whatsapp.com/send?phone=5511987618534" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 </div>
   
-  # Olá, tudo bem?
-  ### Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web! Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆
+<div>
+
+# Olá, tudo bem?
+### Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web! Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆
+</div>
 
 <div align="center" style="display:flex">
 
