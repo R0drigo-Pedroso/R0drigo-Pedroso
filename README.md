@@ -48,48 +48,44 @@
   </div>
 
   <br>
-  <hr>
-
-  <!-- Experiência -->
-  <div align="center">
-    <div>
-      <h1>Experiência</h1>
-      <div align="left">
-        <h2>Experiência</h2>
-        <ul>
-          <li>Desenvolvedor Web</li>
-          <li>Desenvolvedor Web</li>
-          <li>Desenvolvedor Web</li>
-          <li>Desenvolvedor Web</li>
-          <li>Desenvolvedor Web</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
   <br>
   <hr>
-
+  
   <!-- Formação -->
   <div align="center">
     <div>
       <h1>Formação</h1>
       <div align="left">
-        <h2>Formação</h2>
         <ul>
-          <li>Técnico em Informática para Internet</li>
-          <li>Técnico em Informática para Internet</li>
-          <li>Técnico em Informática para Internet</li>
-          <li>Técnico em Informática para Internet</li>
-          <li>Técnico em Informática para Internet</li>
+          <li>Técnico em Informática para Internet - Cursando
+            <ul>
+              <li>Ano de conclusão: 2023</li>
+              <li>Instituição: Senac Penha</li>
+              <li>Cidade: São Paulo</li>
+            </ul>
+            <br>
+          </li>
+          <li>Técnico em Administração - Concluido 
+            <ul>
+              <li>Ano de conclusão: 2017</li>
+              <li>Instituição: Senac Largo Treze</li>
+              <li>Cidade: São Paulo</li>
+            </ul>
+          </li>
+          <br>
+          <li>Graduação em Publicidade e Propaganda - Trancada 
+            <ul>
+              <li>Ano de conclusão: 2015</li>
+              <li>Instituição: Universidade Nove de Julho</li>
+              <li>Cidade: São Paulo</li>
+            </ul>
+          </li>
         </ul>
       </div>
     </div>
   </div>
 
-
   <!-- Conhecimentos -->
-
   <br>
   <hr>
 
@@ -97,13 +93,13 @@
   <div align="center">
     <div>
       <h1>Contato</h1>
-      <div align="left">
-        <h2>Contato</h2>
-        <ul>
-          <li>Email: <a href="mailto:  @gmail.com">    @gmail.com</a></li>
-          <li>Telefone:     </li>
-          <li>Celular:    </li>
-        </ul>
+      <div align="center">
+        <a href="https://github.com/R0drigo-Pedroso">
+    <a href="https://www.instagram.com/rodrigo.pedros0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:rodrigo.pedroso@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/rodrig0pedros0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://api.whatsapp.com/send?phone=5511987618534" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
       </div>
     </div>
   </div>
@@ -111,7 +107,7 @@
   <br>
   <hr>
 
-  <!-- Links -->
+  <!-- Links
   <div align="center">
     <div>
       <h1>Links</h1>
@@ -132,7 +128,7 @@
   <hr>
 
   <!-- Sobre -->
-  <div align="center">
+  <!-- <div align="center">
     <div>
       <h1>Sobre</h1>
       <div align="left">
@@ -145,4 +141,4 @@
           <li>Sobre</li>
         </ul>
       </div>
-    </div>
+    </div> -->
