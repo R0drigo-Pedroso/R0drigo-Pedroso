@@ -9,7 +9,7 @@
   <h1>Apresentação</h1>
   <div align="left">
     <h2><strong>Olá, tudo bem?</strong></h2>
-    <p style="font-size: 20px"><em>Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web. Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆 <br>
+    <p><em>Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web. Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆 <br>
     Atualmente estou estudando o curso de Técnico em informática para internet no Senac Penha, e estou aprendendo a desenvolver aplicações web. Tendo contato com as linguagens <strong>HTML, CSS, JavaScript, PHP, MySQL</strong>, e outras tecnologias que me permitem desenvolver aplicações web.</p></em><br>
   </div>
 </div>
@@ -21,19 +21,19 @@
   <div align="center">
     <!-- linguagens -->
     <div>
-      <h1>Conhecimentos</h1>
+      <h1 >Conhecimentos</h1>
       <div align="center">
         <h2><strong>Linguagens de Marcação</strong></h2><br>
-        <img align="center" alt="RodrigoHTML" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-        <img align="center" alt="RodrigoCSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+        <img align="center" alt="RodrigoHTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+        <img align="center" alt="RodrigoCSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </div>
       <br>
       <br>
       <div align="center">
         <h2>Linguagens</h2><br>
-        <img align="center" alt="RodrigoJS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img align="center" style="margin-left:15px" alt="RodrigoPHP" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-        <img align="center" style="margin-left:15px" alt="RodrigoMYSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+        <img align="center" alt="RodrigoJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="center" style="margin-left:15px" alt="RodrigoPHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+        <img align="center" style="margin-left:15px" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       </div>
     </div>
     <!-- Frameworks -->
@@ -42,7 +42,7 @@
     <div>
       <div align="center">
         <h2>Frameworks</h2><br>
-        <img align="center" alt="RodrigoMYSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+        <img align="center" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
       </div>
     </div>
   </div>
@@ -146,4 +146,3 @@
         </ul>
       </div>
     </div>
-
