@@ -40,7 +40,7 @@
     <br>
     <br>
     <div>
-      <div align="center" style="background:white; color:black; font-size:15px; padding-bottom:10px; border-radius:10px">
+      <div align="center" style="background:white;color:black;font-size:15px;padding-bottom:10px;border-radius:10px">
         <h2>Frameworks</h2><br>
         <img align="center" alt="RodrigoMYSQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
       </div>
