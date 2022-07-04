@@ -17,9 +17,9 @@
 ### Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web! Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆
 </div>
 
+<br>
+<br>
 <div align="center" style="display:flex">
-<br>
-<br>
 
 ## Tecnologias💻 
 <br>
