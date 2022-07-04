@@ -3,7 +3,6 @@
   ![principal](atualizacao_readme/imagens_front-end.png)
 
 </div>
-  <br>
   <hr>
 <!-- Apresentação -->
 <div align="center">
