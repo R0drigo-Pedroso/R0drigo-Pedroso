@@ -1,5 +1,5 @@
 <div>
 
-  ![principal](atualizacao_readme/imagem.png)
+  ![principal](atualizacao_readme/imagens_front-end.png)
 
 </div>
