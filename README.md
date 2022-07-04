@@ -43,12 +43,13 @@
   
   💼 Breve terar novos trabalhos. (Mas não se preocupe deixarei aberto publicamente)
 </div> 
-
+<br>
 <!-- Imagem GIF Irmão wonner -->
 <div align="center">
      <img align="center" src="https://media.giphy.com/media/jNkPN2fBWFeX9ZtldB/giphy.gif"/>
 <div>
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/R0drigo-Pedroso">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
