@@ -25,7 +25,6 @@
 
   <br>
   <hr>
-
   <!-- Conhecimentos -->
   <div align="center">
     <!-- linguagens -->
@@ -38,6 +37,7 @@
       </div>
       <br>
       <br>
+      <hr>
       <div align="center">
         <h2>Linguagens</h2><br>
         <img align="center" alt="RodrigoJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -48,12 +48,11 @@
     <!-- Frameworks -->
     <br>
     <br>
-    <div>
+    <hr>
       <div align="center">
         <h2>Frameworks</h2><br>
         <img align="center" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
       </div>
-    </div>
   </div>
 
   <br>
