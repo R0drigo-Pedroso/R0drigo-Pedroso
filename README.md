@@ -71,6 +71,7 @@
   <br>
   <br>
   <hr>
+  
   <!-- Formação -->
   <div align="center">
     <div>
