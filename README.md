@@ -22,14 +22,15 @@
     <!-- linguagens -->
     <div>
       <h1>Conhecimentos</h1>
-      <div align="center">
-        <h2>Linguagens de Marcação</h2>
+      <div align="center" style="background:white; color:black; font-size:15px; padding-bottom:10px; border-radius:10px">
+        <h2><strong>Linguagens de Marcação</strong></h2><br>
         <img align="center" alt="RodrigoHTML" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
         <img align="center" alt="RodrigoCSS" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </div>
       <br>
-      <div align="center">
-        <h2>Linguagens</h2>
+      <br>
+      <div align="center" style="background:white; color:black; font-size:15px; padding-bottom:10px; border-radius:10px">
+        <h2>Linguagens</h2><br>
         <img align="center" alt="RodrigoJS" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="RodrigoPHP" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
         <img align="center" alt="RodrigoMYSQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -37,9 +38,10 @@
     </div>
     <!-- Frameworks -->
     <br>
+    <br>
     <div>
-      <div align="center">
-        <h2>Frameworks</h2>
+      <div align="center" style="background:white; color:black; font-size:15px; padding-bottom:10px; border-radius:10px">
+        <h2>Frameworks</h2><br>
         <img align="center" alt="RodrigoMYSQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
       </div>
     </div>
