@@ -22,7 +22,7 @@
     <!-- linguagens -->
     <div>
       <h1>Conhecimentos</h1>
-      <div align="center" style="color:blue;">
+      <div style="background:blue;" align="center">
         <h2><strong>Linguagens de Marcação</strong></h2><br>
         <img align="center" alt="RodrigoHTML" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
         <img align="center" alt="RodrigoCSS" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
