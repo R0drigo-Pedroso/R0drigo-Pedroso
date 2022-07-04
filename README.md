@@ -25,8 +25,8 @@
       <div align="left">
         <h2>Linguagens</h2>
         <ol>
-          <li>HTML</li>
-          <li>CSS</li>
+          <li>HTML 5</li>
+          <li>CSS 3</li>
           <li>JavaScript</li>
           <li>PHP</li>
           <li>MySQL</li>
