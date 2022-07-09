@@ -14,7 +14,6 @@
       </div>
 <hr>
 <!-- Apresentação -->
-
 <table>
   <tr>
     <td>
