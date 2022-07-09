@@ -1,6 +1,7 @@
 <style>
   red { color: red }
-  yellow { color: yellow }
+  red { font-size: 20px }
+  yellow { color: yellow}
 </style>
 
 
