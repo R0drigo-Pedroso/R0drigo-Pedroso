@@ -1,8 +1,8 @@
 <style>
-  red { color: red }
-  red { font-weight: bold }
-  red { font-style: italic }
-  red { font-size: 1.5em }
+  p { color: p }
+  p { font-weight: bold }
+  p { font-style: italic }
+  p { font-size: 1.5em }
   yellow { color: yellow }
 </style>
 
@@ -27,8 +27,8 @@
   <h1>Apresentação</h1>
   <div align="left">
     <h2><strong>Olá, tudo bem?</strong></h2>
-    <red><em>Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web. Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆 <br>
-    Atualmente estou estudando o curso de Técnico em informática para internet no Senac Penha, e estou aprendendo a desenvolver aplicações web. Tendo contato com as linguagens <strong>HTML, CSS, JavaScript, PHP, MySQL</strong>, e outras tecnologias que me permitem desenvolver aplicações web.</em></red>
+    <p><em>Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web. Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆 <br>
+    Atualmente estou estudando o curso de Técnico em informática para internet no Senac Penha, e estou aprendendo a desenvolver aplicações web. Tendo contato com as linguagens <strong>HTML, CSS, JavaScript, PHP, MySQL</strong>, e outras tecnologias que me permitem desenvolver aplicações web.</em></p>
   </div>
 </div>
 
