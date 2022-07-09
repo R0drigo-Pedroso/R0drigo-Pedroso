@@ -25,6 +25,7 @@
     Atualmente estou estudando o curso de Técnico em informática para internet no Senac Penha, e estou aprendendo a desenvolver aplicações web. Tendo contato com as linguagens <strong>HTML, CSS, JavaScript, PHP, MySQL</strong>, e outras tecnologias que me permitem desenvolver aplicações web.</em></p>
 <div align="right">
   <img src="atualizacao_readme/imgem_3d_sentada.png" width="150"  alt="">
+  <hr>
 </div> 
 
   </div>
