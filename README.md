@@ -1,7 +1,9 @@
 <style>
   red { color: red }
-  red { font-size: 20px }
-  yellow { color: yellow}
+  red { font-weight: bold }
+  red { font-style: italic }
+  red { font-size: 1.5em }
+  yellow { color: yellow }
 </style>
 
 
