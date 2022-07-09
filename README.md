@@ -28,8 +28,7 @@
     </td>
     <td>
       <div align="right">
-        <img src="atualizacao_readme/imgem_3d_sentada.png" width="2600"  alt="">
-        <hr>
+        <img src="atualizacao_readme/imgem_3d_sentada.png" width="auto"  alt="">
       </div> 
     </td>
   </tr>
