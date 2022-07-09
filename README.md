@@ -1,11 +1,3 @@
-<style>
-  red {
-    color: red;
-    font-weight: bold;
-    font-size: 20px;
-  }
-</style>
-
 <div>
 
   ![principal](atualizacao_readme/imagens_front-end.png)
@@ -28,8 +20,11 @@
     <h2><strong>Olá, tudo bem?</strong></h2>
     <p><em>Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web. Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆 <br>
     Atualmente estou estudando o curso de Técnico em informática para internet no Senac Penha, e estou aprendendo a desenvolver aplicações web. Tendo contato com as linguagens <strong>HTML, CSS, JavaScript, PHP, MySQL</strong>, e outras tecnologias que me permitem desenvolver aplicações web.</em></p>
+<div align="right">
 
-<red>Como eu faço para desenvolver aplicações web?</red>
+  ![sentado](atualizacao_readme/imgem_3d_sentada.png)
+
+</div> 
 
   </div>
 </div>
@@ -64,6 +59,11 @@
         <h2>Frameworks</h2><br>
         <img align="center" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
       </div>
+    <br>
+    <br>
+    <hr>
+ 
+
   </div>
 
   <br>
