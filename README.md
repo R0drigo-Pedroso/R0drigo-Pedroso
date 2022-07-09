@@ -18,8 +18,8 @@
   <h1>Apresentação</h1>
   <div align="left">
     <h2><strong>Olá, tudo bem?</strong></h2>
-    <p style="font-size:20px; color:green"><em>Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web. Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆 <br>
-    Atualmente estou estudando o curso de Técnico em informática para internet no Senac Penha, e estou aprendendo a desenvolver aplicações web. Tendo contato com as linguagens <strong>HTML, CSS, JavaScript, PHP, MySQL</strong>, e outras tecnologias que me permitem desenvolver aplicações web.</p></em>
+    <div style="font-size:20px;"><em>Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web. Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆 <br>
+    Atualmente estou estudando o curso de Técnico em informática para internet no Senac Penha, e estou aprendendo a desenvolver aplicações web. Tendo contato com as linguagens <strong>HTML, CSS, JavaScript, PHP, MySQL</strong>, e outras tecnologias que me permitem desenvolver aplicações web.</div></em>
   </div>
 </div>
 
