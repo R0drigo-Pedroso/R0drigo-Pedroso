@@ -14,9 +14,6 @@
       </div>
 <hr>
 <!-- Apresentação -->
-<table>
-  <tr>
-    <td>
       <div align="left">
         <h1 align="center">Apresentação</h1>
         <div align="left" width="50">
@@ -29,9 +26,7 @@
       <div align="right">
         <img src="atualizacao_readme/imgem_3d_sentada.png" width="auto"  alt="">
       </div> 
-    </td>
-  </tr>
-</table>
+  
 
   <br>
   <hr>
