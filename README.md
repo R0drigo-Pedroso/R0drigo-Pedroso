@@ -24,7 +24,7 @@
     </td>
     <td>
       <div align="right">
-        <img src="atualizacao_readme/imgem_3d_sentada.png" width="auto"  alt="">
+        <img src="atualizacao_readme/imgem_3d_sentada.png" width="150"  alt="">
       </div> 
   
 
