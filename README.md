@@ -73,9 +73,6 @@
 [![cPanel Badge](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=fff&style=for-the-badge)](https://github.com/lucasmendesql)
 
 </div>
-<br>
-<br>
-<hr>
 
   </div>
 
