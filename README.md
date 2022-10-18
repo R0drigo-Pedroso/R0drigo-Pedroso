@@ -30,11 +30,11 @@
   <br>
   <hr>
   <!-- Conhecimentos -->
-  <div >
+  <div>
     <!-- linguagens -->
     <div>
       <h1 >Conhecimentos</h1>
-      <div align="center">
+      <div>
         <h2><strong>Linguagens de Marcação</strong></h2><br>
         <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></kbd>
         <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></kbd>
