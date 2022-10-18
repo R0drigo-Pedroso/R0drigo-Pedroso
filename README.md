@@ -15,7 +15,7 @@
 
 <hr>
 <!-- Apresentação -->
-<h1 align="center">Apresentação</h1>
+<h1>Apresentação</h1>
 <div style="display: inline_block">
         <div align="left">
           <h2><strong>Olá, tudo bem?</strong></h2>
@@ -33,7 +33,7 @@
   <div>
     <!-- linguagens -->
     <div>
-      <h1 align="center">Conhecimentos</h1>
+      <h1>Conhecimentos</h1>
       <div>
 
 > Programming languages.
