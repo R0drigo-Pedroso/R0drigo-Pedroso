@@ -38,6 +38,10 @@
         <h2><strong>Linguagens de Marcação</strong></h2><br>
         <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></kbd>
         <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></kbd>
+        <h2>Linguagens</h2><br>
+        <img align="center" alt="RodrigoJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="center" style="margin-left:15px" alt="RodrigoPHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+        <img align="center" style="margin-left:15px" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       </div>
       <br>
       <br>
