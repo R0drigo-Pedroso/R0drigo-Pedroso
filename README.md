@@ -35,35 +35,40 @@
     <div>
       <h1 >Conhecimentos</h1>
       <div>
-        <h2><strong>Linguagens de Marcação</strong></h2><br>
-        <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></kbd>
-        <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></kbd>
-        <h2>Linguagens</h2><br>
-        <img align="center" alt="RodrigoJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img align="center" style="margin-left:15px" alt="RodrigoPHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-        <img align="center" style="margin-left:15px" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-      </div>
-      <br>
-      <br>
-      <hr>
-      <div align="center">
-        <h2>Linguagens</h2><br>
-        <img align="center" alt="RodrigoJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img align="center" style="margin-left:15px" alt="RodrigoPHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-        <img align="center" style="margin-left:15px" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-      </div>
-    </div>
-    <!-- Frameworks -->
-    <br>
-    <br>
-    <hr>
-      <div align="center">
-        <h2>Frameworks</h2><br>
-        <img align="center" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-      </div>
-    <br>
-    <br>
-    <hr>
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/lucasmendesql)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/lucasmendesql)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/lucasmendesql)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/lucasmendesql)
+[![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/lucasmendesql)
+[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://github.com/lucasmendesql)
+
+> Frameworks and libraries.
+
+[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/lucasmendesql)
+[![REACTNATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/lucasmendesql)
+[![MATERIALUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/lucasmendesql)
+[![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/lucasmendesql)
+[![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/lucasmendesql)
+[![Google Fonts Badge](https://img.shields.io/badge/Google%20Fonts-4285F4?logo=googlefonts&logoColor=fff&style=for-the-badge)](https://github.com/lucasmendesql)
+
+> Databases and cloud hosting.
+
+[![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/lucasmendesql)
+[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/lucasmendesql)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+</div>
+<!-- Frameworks -->
+<br>
+<br>
+<hr>
+<div align="center">
+<h2>Frameworks</h2><br>
+<img align="center" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+</div>
+<br>
+<br>
+<hr>
 
   </div>
 
@@ -173,3 +178,21 @@
         </ul>
       </div>
     </div> -->
+
+<!-- <h2><strong>Linguagens de Marcação</strong></h2><br>
+    <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></kbd>
+        <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></kbd>
+        <h2>Linguagens</h2><br>
+        <img align="center" alt="RodrigoJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="center" style="margin-left:15px" alt="RodrigoPHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+        <img align="center" style="margin-left:15px" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+      </div>
+      <br>
+      <br>
+      <hr>
+      <div align="center">
+        <h2>Linguagens</h2><br>
+        <img align="center" alt="RodrigoJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="center" style="margin-left:15px" alt="RodrigoPHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+        <img align="center" style="margin-left:15px" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+      </div> -->
