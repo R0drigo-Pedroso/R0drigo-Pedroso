@@ -33,7 +33,7 @@
   <div>
     <!-- linguagens -->
     <div>
-      <h1 >Conhecimentos</h1>
+      <h1 align="center">Conhecimentos</h1>
       <div>
 
 > Programming languages.
