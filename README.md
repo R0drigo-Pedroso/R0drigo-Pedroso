@@ -37,7 +37,7 @@
       <div align="center">
         <h2><strong>Linguagens de Marcação</strong></h2><br>
         <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></kbd>
-        <img align="center" alt="RodrigoCSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+        <kbd><img align="center" alt="RodrigoCSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></kbd>
       </div>
       <br>
       <br>
