@@ -30,7 +30,7 @@
   <br>
   <hr>
   <!-- Conhecimentos -->
-  <div align="center">
+  <div >
     <!-- linguagens -->
     <div>
       <h1 >Conhecimentos</h1>
