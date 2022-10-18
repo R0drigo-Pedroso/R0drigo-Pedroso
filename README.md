@@ -57,14 +57,7 @@
 [![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/lucasmendesql)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/lucasmendesql)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-</div>
-<!-- Frameworks -->
-<br>
-<br>
-<hr>
-<div align="center">
-<h2>Frameworks</h2><br>
-<img align="center" alt="RodrigoMYSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+
 </div>
 <br>
 <br>
