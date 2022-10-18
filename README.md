@@ -91,7 +91,7 @@
   <hr>
   
   <!-- Formação -->
-  <div align="center">
+  <div>
     <div>
       <h1>Formação</h1>
       <div align="left">
