@@ -35,8 +35,8 @@
       <h1 >Conhecimentos</h1>
       <div align="center">
         <h2><strong>Linguagens de Marcação</strong></h2><br>
-          https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-        <img align="center" alt="RodrigoHTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+          
+        <img align="center" alt="RodrigoHTML" height="60" width="80" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)">
         <img align="center" alt="RodrigoCSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </div>
       <br>
