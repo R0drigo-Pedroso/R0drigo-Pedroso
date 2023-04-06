@@ -19,8 +19,8 @@
 <div style="display: inline_block">
         <div align="left">
           <h2><strong>Olá, tudo bem?</strong></h2>
-          <p><em>Tenho 30 anos, moro em São Paulo/SP e adoro programação e desenvolver aplicações web. Sou iniciante nesse mundo gigante de desenvolvedores e programadores, sempre buscando novos conhecimento e desafios! 😆 <br>
-          Atualmente estou estudando o curso de Técnico em informática para internet no Senac Penha, e estou aprendendo a desenvolver aplicações web. Tendo contato com as Tecnologias <strong>HTML, CSS, Bootstrap, Figma, JavaScript, PHP, MySQL</strong>, e sempre adquirindo mais conhecimento para desenvolver aplicações web.</em></p>
+          <p><em>Meu nome é Rodrigo Pedroso, tenho 30 anos e moro em São Paulo/SP. Sou um entusiasta da programação e do desenvolvimento de aplicações web. Atualmente, Além disso, já tenho experiência em desenvolvimento web, pois estou cursando Técnico em Informática para Internet no Senac Penha, onde adquiri conhecimentos em tecnologias como <strong>HTML, CSS, Bootstrap, Figma, JavaScript e PHP, bem como em MySQL</strong>.<br>
+Estou sempre buscando novos desafios para aprimorar minhas habilidades e conhecimentos na área de tecnologia. Agradeço pela oportunidade de me apresentar e aguardo a chance de contribuir para sua equipe.</em></p>
       </div>
       <div align="right">
         <img src="atualizacao_readme/imgem_3d_sentada.png" width="150"  alt="">
