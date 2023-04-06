@@ -19,8 +19,13 @@
 <div style="display: inline_block">
         <div align="left">
           <h2><strong>Olá, tudo bem?</strong></h2>
-          <p><em>Meu nome é Rodrigo Pedroso, tenho 30 anos e moro em São Paulo/SP. Sou um entusiasta da programação e do desenvolvimento de aplicações web. Atualmente, Além disso, já tenho experiência em desenvolvimento web, pois estou cursando Técnico em Informática para Internet no Senac Penha, onde adquiri conhecimentos em tecnologias como <strong>HTML, CSS, Bootstrap, Figma, JavaScript e PHP, bem como em MySQL</strong>.<br>
-Estou sempre buscando novos desafios para aprimorar minhas habilidades e conhecimentos na área de tecnologia. Agradeço pela oportunidade de me apresentar e aguardo a chance de contribuir para sua equipe.</em></p>
+          <p><em>Meu nome é Rodrigo Pedroso e estou animado em apresentar minhas habilidades e conhecimentos em desenvolvimento web para sua equipe. Estou atualmente cursando Tecnologia em Sistemas para Internet no Centro Universitário Senac, onde tenho acesso a habilidades avançadas para desenvolver aplicações web.
+
+Já possuo experiência em desenvolvimento web e estou sempre buscando novos desafios para me desenvolver na área de tecnologia. Além de cursar Técnico em Informática para Internet no Senac Penha, adquiri habilidades em tecnologias como <strong>HTML, CSS, Bootstrap, Figma, JavaScript, React, React Native, UX/UI, PHP e MySQL</strong>.
+
+Acredito que minhas habilidades e conhecimentos podem contribuir significativamente para sua equipe e estou ansioso para conversar mais sobre como podemos trabalhar juntos.
+
+Obrigado pela oportunidade de me apresentar e espero ouvir de você em breve.</em></p>
       </div>
       <div align="right">
         <img src="atualizacao_readme/imgem_3d_sentada.png" width="150"  alt="">
