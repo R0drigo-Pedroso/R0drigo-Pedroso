@@ -24,8 +24,10 @@
 Já possuo experiência em desenvolvimento web e estou sempre buscando novos desafios para me desenvolver na área de tecnologia. Além de cursar Técnico em Informática para Internet no Senac Penha, adquiri habilidades em tecnologias como <strong>HTML, CSS, Bootstrap, Figma, JavaScript, React, React Native, UX/UI, PHP e MySQL</strong>.
 
 Acredito que minhas habilidades e conhecimentos podem contribuir significativamente para sua equipe e estou ansioso para conversar mais sobre como podemos trabalhar juntos.
-
-Obrigado pela oportunidade de me apresentar e espero ouvir de você em breve.</em></p>
+            
+Atenciosamente,
+Rodrigo Pedroso
+</em></p>
       </div>
       <div align="right">
         <img src="atualizacao_readme/imgem_3d_sentada.png" width="150"  alt="">
