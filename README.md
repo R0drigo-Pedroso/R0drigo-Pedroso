@@ -21,7 +21,7 @@
           <h2><strong>Olá, tudo bem?</strong></h2>
           <p><em>Meu nome é Rodrigo Pedroso e estou animado em apresentar minhas habilidades e conhecimentos em desenvolvimento web para sua equipe. Estou atualmente cursando Tecnologia em Sistemas para Internet no Centro Universitário Senac, onde tenho acesso a habilidades avançadas para desenvolver aplicações web.
 
-Já possuo experiência em desenvolvimento web e estou sempre buscando novos desafios para me desenvolver na área de tecnologia. Além de cursar Técnico em Informática para Internet no Senac Penha, adquiri habilidades em tecnologias como <strong>HTML, CSS, Bootstrap, Figma, JavaScript, React, React Native, UX/UI, PHP e MySQL</strong>.
+Já possuo experiência em desenvolvimento web e estou sempre buscando novos desafios para me desenvolver na área de tecnologia. Além de cursar Técnico em Informática para Internet no Senac Penha, adquiri habilidades em tecnologias como <strong>HTML, CSS, Bootstrap, Figma, Adobe XD, JavaScript, React, React Native, UX/UI, PHP e MySQL</strong>.
 
 Acredito que minhas habilidades e conhecimentos podem contribuir significativamente para sua equipe e estou ansioso para conversar mais sobre como podemos trabalhar juntos.
             
