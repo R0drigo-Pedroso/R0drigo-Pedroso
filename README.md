@@ -77,11 +77,26 @@
 
 ## Contato
 
-- [Instagram](https://www.instagram.com/rodrigo.pedros0/)
-- [Discord](https://discord.com/channels/@me)
-- [E-mail](mailto:rodrigo.pedroso@live.com)
-- [LinkedIn](https://www.linkedin.com/in/rodrig0pedros0/)
-- [WhatsApp](https://api.whatsapp.com/send?phone=5511987618534)
+<div align="center">
+    <a href="https://github.com/R0drigo-Pedroso">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.instagram.com/rodrigo.pedros0/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://discord.com/channels/@me" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="mailto:rodrigo.pedroso@live.com">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    </a>
+    <a href="https://www.linkedin.com/in/rodrig0pedros0/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5511987618534" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+</div>
 
 <br>
 
