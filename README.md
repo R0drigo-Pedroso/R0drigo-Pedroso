@@ -50,7 +50,7 @@
 ## Habilidades e Conhecimentos
 
 - Linguagens de programação: HTML, CSS, JavaScript, PHP e JSON.
-- Frameworks e bibliotecas: React, React Native, Material UI, Node.js e Bootstrap.
+- Frameworks e bibliotecas: React, React Native, Material UI, Next.js, Node.js e Bootstrap.
 - Bancos de dados e hospedagem na nuvem: XAMPP, MySQL e Heroku.
 - Ferramentas e software: Adobe XD, Adobe Photoshop, Figma, Canva, Git, Insomnia, Postman, Visual Studio Code, Composer, npm e cPanel.
 
@@ -67,7 +67,8 @@
 
 ## Formação
 
-- Técnico em Informática para Internet - Cursando (Centro Universitário Senac, São Paulo, previsão de conclusão: 2023)
+- Tecnologo em Sistema para Internet - Cursando (Centro Universitário Senac, São Paulo, previsão de conclusão: 06/2025)
+- Técnico em Informática para Internet - Concluido (Centro Universitário Senac, São Paulo, 02/2023)
 - Técnico em Administração - Concluído (Senac Largo Treze, São Paulo, 2017)
 - Graduação em Publicidade e Propaganda - Trancada (Universidade Nove de Julho, São Paulo, 2015)
 
