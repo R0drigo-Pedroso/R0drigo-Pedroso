@@ -1,7 +1,7 @@
 # Rodrigo Pedroso
 
 <div align="center">
-    <img src="atualizacao_readme/imagens_front-end.png" alt="Principal">
+    <img src="atualizacao_readme/fundoLinkedin.jpeg" alt="Principal">
 </div>
 
 <hr>
