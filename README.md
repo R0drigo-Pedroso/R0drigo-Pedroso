@@ -33,9 +33,10 @@
 
 <div align="left">
     <h2>Olá, tudo bem?</h2>
-    <p>Meu nome é Rodrigo Pedroso e estou animado em apresentar minhas habilidades e conhecimentos em desenvolvimento web para sua equipe. Estou atualmente cursando Tecnologia em Sistemas para Internet no Centro Universitário Senac, onde tenho acesso a habilidades avançadas para desenvolver aplicações web.</p>
-    <p>Já possuo experiência em desenvolvimento web e estou sempre buscando novos desafios para me desenvolver na área de tecnologia. Além de cursar Técnico em Informática para Internet no Senac Penha, adquiri habilidades em tecnologias como HTML, CSS, Bootstrap, Figma, Adobe XD, JavaScript, React, React Native, UX/UI, PHP e MySQL.</p>
-    <p>Acredito que minhas habilidades e conhecimentos podem contribuir significativamente para sua equipe e estou ansioso para conversar mais sobre como podemos trabalhar juntos.</p>
+    <p>Meu nome é Rodrigo Pedroso e estou entusiasmado em destacar minhas habilidades e conhecimentos em desenvolvimento web, especialmente no âmbito de backend. Atualmente, estou cursando Tecnologia em Sistemas para Internet no Centro Universitário Senac, onde obtenho habilidades avançadas para criar aplicações web robustas.</p>
+    <p>Tenho uma sólida experiência em desenvolvimento web, com ênfase no backend, utilizando linguagens de programação como Python, Node.js, e trabalhando com tecnologias como Firebase e MongoDB. Essa experiência tem me proporcionado uma compreensão profunda do desenvolvimento de sistemas eficientes e escaláveis.</p>
+    <p>Além de meu curso atual, concluí o Técnico em Informática para Internet no Senac Penha, onde adquiri habilidades em diversas tecnologias, incluindo HTML, CSS, Bootstrap, Figma, Adobe XD, JavaScript, React e React Native. Além disso, desenvolvi competências em UX/UI, PHP e MySQL.</p>
+    <p>Acredito que minha transição para o backend, aliada à minha experiência prévia em desenvolvimento web, pode contribuir de maneira significativa para sua equipe. Estou ansioso para discutir como posso aplicar minhas habilidades e conhecimentos para impulsionar os projetos da equipe.</p>
     <p>Atenciosamente,</p>
     <p>Rodrigo Pedroso</p>
 </div>
@@ -49,7 +50,7 @@
 
 ## Habilidades e Conhecimentos
 
-- Linguagens de programação: HTML, CSS, JavaScript, PHP e JSON.
+- Linguagens de programação: HTML, CSS, JavaScript, Python, PHP e JSON.
 - Frameworks e bibliotecas: React, React Native, Material UI, Next.js, Node.js e Bootstrap.
 - Bancos de dados e hospedagem na nuvem: XAMPP, MySQL e Heroku.
 - Ferramentas e software: Adobe XD, Adobe Photoshop, Figma, Canva, Git, Insomnia, Postman, Visual Studio Code, Composer, npm e cPanel.
