@@ -39,6 +39,8 @@
     <p>Atenciosamente,</p>
     <p>Rodrigo Pedroso</p>
 
+![Estatísticas](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+
 <a href="https://r0drigo-pedroso.github.io/Portfolio/index.html#">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
