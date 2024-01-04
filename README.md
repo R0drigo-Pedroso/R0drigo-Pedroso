@@ -67,10 +67,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0drigo-Pedroso&layout=compact&langs_count=7&theme=gotham&card_width=373)
-![GitHub Streak](https://streak-stats.demolab.com?user=R0drigo-Pedroso&theme=gotham&locale=pt_BR&mode=weekly&card_width=900)<!-- (https://git.io/streak-stats) -->
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=R0drigo-Pedroso&theme=gotham&locale=pt_BR&mode=weekly&card_width=450" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=R0drigo-Pedroso&theme=gotham&locale=pt_BR&mode=weekly&card_width=900)](https://git.io/streak-stats)
 <br>
 
 <hr>
