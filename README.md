@@ -36,14 +36,13 @@
     <p>No entanto, meu grande objetivo é me tornar um desenvolvedor que utiliza as tecnologias que aprimorei durante o curso, como JavaScript, React, React Native e UX/UI.</p>
     <p>Minhas experiências profissionais têm sido cruciais para o meu crescimento. A cada empresa que passei, tornei-me uma pessoa mais humanizada, capaz de compreender as necessidades dos usuários para os quais desenvolvo sistemas e aplicativos.</p>
     <p>Para me encontrar nas redes sociais e conferir meu portfólio, é só clicar no link abaixo: 🚀<p>
-    <p>Atenciosamente,</p>
-    <p>Rodrigo Pedroso</p>
-
-![Estatísticas](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
 <a href="https://r0drigo-pedroso.github.io/Portfolio/index.html#">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="GitHub">
 </a>
+
+<p>Atenciosamente,</p>
+<p>Rodrigo Pedroso</p>
 
 </div>
 
