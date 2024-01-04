@@ -66,7 +66,7 @@
 ## Estatísticas
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=gotham&include_all_commits=true&count_private=true_width=373)
-[![GitHub Streak](https://streak-stats.demolab.com?user=R0drigo-Pedroso&theme=gotham&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=R0drigo-Pedroso&theme=gotham&locale=pt_BR&card_width=450)](https://git.io/streak-stats)
 ![Estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=R0drigo-Pedroso&layout=compact&langs_count=7&theme=gotham&card_width=373)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R0drigo-Pedroso&theme=gotham&card_width=900)
 
