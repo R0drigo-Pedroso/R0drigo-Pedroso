@@ -38,10 +38,9 @@
     <p>Para me encontrar nas redes sociais e conferir meu portfólio, é só clicar no link abaixo: 🚀<p>
 
 <br>
-    <a href="https://r0drigo-pedroso.github.io/Portfolio/index.html">
+    <a href="https://r0drigo-pedroso.github.io/">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-![Mastodon Follow](https://r0drigo-pedroso.github.io/Portfolio/index.html)
 
     <p>Atenciosamente,</p>
     <p>Rodrigo Pedroso</p>
