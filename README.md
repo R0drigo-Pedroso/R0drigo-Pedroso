@@ -31,10 +31,12 @@
 
 <div align="left">
     <h2>Olá, tudo bem?</h2>
-    <p>Meu nome é Rodrigo Pedroso e estou entusiasmado em destacar minhas habilidades e conhecimentos em desenvolvimento web, especialmente no âmbito de backend. Atualmente, estou cursando Tecnologia em Sistemas para Internet no Centro Universitário Senac, onde obtenho habilidades avançadas para criar aplicações web robustas.</p>
-    <p>Tenho uma sólida experiência em desenvolvimento web, com ênfase no backend, utilizando linguagens de programação como Python, Node.js, e trabalhando com tecnologias como Firebase e MongoDB. Essa experiência tem me proporcionado uma compreensão profunda do desenvolvimento de sistemas eficientes e escaláveis.</p>
-    <p>Além de meu curso atual, concluí o Técnico em Informática para Internet no Senac Penha, onde adquiri habilidades em diversas tecnologias, incluindo HTML, CSS, Bootstrap, Figma, Adobe XD, JavaScript, React e React Native. Além disso, desenvolvi competências em UX/UI, PHP e MySQL.</p>
-    <p>Acredito que minha transição para o backend, aliada à minha experiência prévia em desenvolvimento web, pode contribuir de maneira significativa para sua equipe. Estou ansioso para discutir como posso aplicar minhas habilidades e conhecimentos para impulsionar os projetos da equipe.</p>
+    <p>Prazer em conhecê-los! 👋 Sou o Rodrigo Pedroso, e minha paixão é ser um profissional de tecnologia especializado em front-end.</p>
+    <p>Possuo formação técnica pelo Senac SP e, em um passado recente, atuei como motorista de aplicativo. Atualmente, estou imerso no universo do desenvolvimento de aplicativos com as ferramentas de low-code e no-code.</p>
+    <p>No entanto, meu grande objetivo é me tornar um desenvolvedor que utiliza as tecnologias que aprimorei durante o curso, como JavaScript, React, React Native e UX/UI.</p>
+    <p>Minhas experiências profissionais têm sido cruciais para o meu crescimento. A cada empresa que passei, tornei-me uma pessoa mais humanizada, capaz de compreender as necessidades dos usuários para os quais desenvolvo sistemas e aplicativos.</p>
+    <p>Para me encontrar nas redes sociais e conferir meu portfólio, é só clicar no link abaixo: 🚀<p>
+    <a>https://r0drigo-pedroso.github.io/Portfolio/index.html</a>
     <p>Atenciosamente,</p>
     <p>Rodrigo Pedroso</p>
 </div>
@@ -61,6 +63,7 @@
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=gotham&include_all_commits=true&count_private=true_width=373)
 ![Estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=R0drigo-Pedroso&layout=compact&langs_count=7&theme=gotham&card_width=373)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R0drigo-Pedroso&theme=gotham&card_width=900)
+
 <br>
 
 <hr>
