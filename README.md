@@ -65,7 +65,7 @@
 
 ## Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=radical&width=900)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0drigo-Pedroso&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0drigo-Pedroso&layout=compact&langs_count=7&theme=gotham&card_width=373)
